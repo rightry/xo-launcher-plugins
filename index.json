@@ -1,21 +1,11 @@
 {
-  "schema": 1,
+  "schema": 2,
   "updatedAt": "2026-10-31",
   "plugins": [
     {
       "id": "xo.server-tunnel",
-      "name": "一键开服",
-      "version": "1.0.0",
-      "author": "XO_Launcher",
-      "description": "可以将已安装的游戏一键开服，并支持内网穿透（未成年人请勿使用）。",
-      "file": "packages/xo.server-tunnel-1.0.0.zip",
-      "sha256": "78d4f6877ea10dc108272be1079d143de031669dd72c97313a70502de849e7b7",
-      "size": 34434,
-      "permissions": [
-        "network",
-        "process",
-        "gameWrite"
-      ],
+      "dir": "plugins/xo.server-tunnel",
+      "ref": "xo.server-tunnel-1.0.0",
       "homepage": "https://github.com/rightry/xo-launcher-plugins"
     }
   ]
