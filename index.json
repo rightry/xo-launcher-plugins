@@ -7,9 +7,9 @@
       "name": "一键开服",
       "version": "1.0.0",
       "author": "XO_Launcher",
-      "description": "可以将已安装的游戏一键开服，并支持内网穿透（请未成年不要使用）。",
+      "description": "可以将已安装的游戏一键开服，并支持内网穿透（未成年人请勿使用）。",
       "file": "packages/xo.server-tunnel-1.0.0.zip",
-      "sha256": "a67f9ecb043cd07b26cb72777a121d7acc76cf93ea0316b1ba6d2dd31ac75ac1",
+      "sha256": "78d4f6877ea10dc108272be1079d143de031669dd72c97313a70502de849e7b7",
       "size": 34434,
       "permissions": [
         "network",
