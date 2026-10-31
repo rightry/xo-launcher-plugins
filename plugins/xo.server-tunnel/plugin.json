@@ -1,0 +1,10 @@
+{
+  "id": "xo.server-tunnel",
+  "name": "一键开服",
+  "version": "1.0.0",
+  "author": "XO_Launcher",
+  "description": "可以将已安装的游戏一键开服，并支持内网穿透（未成年人请勿使用）。",
+  "entry": "XO_Launcher.Plugin.ServerTunnel.dll",
+  "permissions": ["network", "process", "gameWrite"],
+  "minLauncherVersion": "1.0.0"
+}
